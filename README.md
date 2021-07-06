@@ -37,7 +37,7 @@ There is an additional `.py` file with helper functions in it to keep the notebo
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@engeslamshash/how-the-tech-industry-changed-over-the-years-6fc2e1d356d1).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
